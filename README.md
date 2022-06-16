@@ -102,9 +102,9 @@
 
 Hi, my name is FY NOVA 2K. (NOVA 😉)
 
-Just a sad developer. 😌
+Just a peaceful developer. 😌
 
-17 years old. From Nigeria. 🇱🇰 
+17 years old. From Nigeria. 🇳🇬
 
 I'm still learning java script. 💫
 
