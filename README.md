@@ -63,7 +63,7 @@
 
 ---
 
-<h1 align="center"><b>The<a href="https://github.com/LORD-NOVA">💫 Owner</a> 🏂</b></h1>
+<h1 align="center"><b><a href="https://github.com/LORD-NOVA">💫 Owner</a> 🏂</b></h1>
 
 <p align="center"> 
  <img src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif" height="200" width="400" />
@@ -102,11 +102,9 @@
 
 Hi, my name is FY NOVA 2K. (NOVA 😉)
 
-Just a peaceful developer. 😌
-
 17 years old. From Nigeria. 🇳🇬
 
-I'm still learning java script. 💫
+I'm still learning Python. 💫
 
 We released a bot to WhatsApp named [Monolith](https://github.com/LORD-NOVA/Monolith) 🤖
 
@@ -120,7 +118,7 @@ If you have any question for me, I put my contact information below. 🙂
 
 <br>
 
-<h1 align="center"><b>✌️ Contact Me 💭</b></h1>
+<h1 align="center"><b>✌️ Contact Me Via 💭</b></h1>
 
 <p align="center">
 <a href="https://t.me/just_that_regular_kid" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
